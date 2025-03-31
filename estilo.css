@@ -1,0 +1,39 @@
+.contenedor{
+        width: 70%;
+        margin: 20px auto;
+        background: rgb(237, 226, 226);
+        display: flex;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    
+}
+.cuadro {
+    width: 35%;
+    background-color: #b2474b;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 9px;
+   min-height: 200px;
+}
+.escrito{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+   min-height: 200px;
+   /*text-align: center;*/
+   text-align: left;
+   width: 100%; 
+   color: rgb(235, 235, 243);
+   margin-top: 0; 
+   margin-bottom: 10px; 
+}
+}
+.cuerpo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+   min-height: 200px;
+   /*text-align: center;*/
+   width: 100%; 
+   color: #f7f5f6d6;
+
+}
